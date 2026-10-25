@@ -1,0 +1,6 @@
+{
+  "name": "VAntix GeoIntelligence",
+  "description": "Geospatial intelligence decision platform integrating satellite imagery, GIS layers, field surveys, and change detection for infrastructure, agriculture, and development.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
